@@ -1,0 +1,78 @@
+[
+  {
+    "id": 1,
+    "date": "2025-02-01",
+    "description": "Lunch",
+    "amount": 20,
+    "category": "Food & Dining"
+  },
+  {
+    "id": 2,
+    "date": "2025-02-01",
+    "description": "Dinner",
+    "amount": 2000,
+    "category": "Food & Dining"
+  },
+  {
+    "id": 3,
+    "date": "2025-02-02",
+    "description": "Groceries",
+    "amount": 50,
+    "category": "Food & Dining"
+  },
+  {
+    "id": 4,
+    "date": "2025-02-04",
+    "description": "Flight Costs",
+    "amount": 2000,
+    "category": "Travel"
+  },
+  {
+    "id": 5,
+    "date": "2025-02-05",
+    "description": "Movie Ticket",
+    "amount": 12,
+    "category": "Entertainment"
+  },
+  {
+    "id": 6,
+    "date": "2025-02-06",
+    "description": "Books",
+    "amount": 30,
+    "category": "Education"
+  },
+  {
+    "id": 7,
+    "date": "2025-02-07",
+    "description": "Snacks",
+    "amount": 8,
+    "category": "Food & Dining"
+  },
+  {
+    "id": 8,
+    "date": "2025-02-08",
+    "description": "Electricity",
+    "amount": 20,
+    "category": "Utilities"
+  },
+  {
+    "id": 9,
+    "date": "2025-02-09",
+    "description": "Internet Subscription",
+    "amount": 20
+  },
+  {
+    "id": 10,
+    "date": "2025-02-10",
+    "description": "Gym Membership",
+    "amount": 40,
+    "category": "Uncategorized"
+  },
+  {
+    "id": 11,
+    "date": "2025-02-17",
+    "description": "Toiletries",
+    "amount": 2.31,
+    "category": "Uncategorized"
+  }
+]
